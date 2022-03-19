@@ -6,7 +6,7 @@
 Summary:	A prettyprinting library for laying out text documents
 Name:		ghc-%{pkgname}
 Version:	0.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/doclayout
